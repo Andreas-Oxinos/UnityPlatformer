@@ -1,0 +1,9 @@
+C:\Users\Andreas\Documents\GitHub\UnityPlatformer\Platformer\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\Andreas\Documents\GitHub\UnityPlatformer\Platformer\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\Andreas\Documents\GitHub\UnityPlatformer\Platformer\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Andreas\Documents\GitHub\UnityPlatformer\Platformer\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Andreas\Documents\GitHub\UnityPlatformer\Platformer\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\Andreas\Documents\GitHub\UnityPlatformer\Platformer\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\Andreas\Documents\GitHub\UnityPlatformer\Platformer\obj\Debug\UnityVS.Platformer.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Andreas\Documents\GitHub\UnityPlatformer\Platformer\obj\Debug\Assembly-CSharp.dll
+C:\Users\Andreas\Documents\GitHub\UnityPlatformer\Platformer\obj\Debug\Assembly-CSharp.pdb

@@ -57,8 +57,8 @@ public class MovementScript : MonoBehaviour
         }
 
 
-        if(Input.GetKeyDown(KeyCode.X))
-        {
+        if (Input.GetButtonDown("Fire1"))
+        {   
             Attack();
         }
     }
